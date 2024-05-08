@@ -1,2 +1,3 @@
 # srini-demo
-This is my get repository
+This is my get repository.
+Author - Srinidhi
